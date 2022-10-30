@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rjculley
 - 👀 I’m interested in softwareDevelopment, Robotics, dataScience, appBuilding;
-- 🌱 I’m currently learning Python and Java;
+- 🌱 Primary language is Java while expanding my knowledge with Python;
 - 💞️ I’m looking to collaborate on AppProjects, DataScienceProjects
 - 📫 How to reach me robert.culley89@gmail.com
 
